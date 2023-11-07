@@ -37,3 +37,7 @@ Didn't work on the project
 
 BNTU / Faculty of Mining and Engineering Ecology
 
+# Language
+
+* __Russian__ - native speaker.
+* __English__ - A2.
