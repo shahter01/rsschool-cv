@@ -28,3 +28,12 @@ function evenOrOdd(number) {
   }
 } 
 ```
+# Experience
+
+
+Didn't work on the project
+
+# Education 
+
+BNTU / Faculty of Mining and Engineering Ecology
+
